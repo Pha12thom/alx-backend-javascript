@@ -8,8 +8,8 @@ The ALX Backend Project is designed to provide the server-side functionality for
 
 ## Features
 
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
+- **Feature 1**:   NODE.JS.
+- **Feature 2**: JAVASCRIPT.
 - ...
 
 ## Prerequisites
